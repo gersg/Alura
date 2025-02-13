@@ -4,7 +4,7 @@
 
 # Estudos - [![Alura](https://img.shields.io/badge/Alura-2A7CFF?style=flat&logo=alura&logoColor=white)](https://www.alura.com.br/)
 
-Este repositório contém o material de estudo, projetos práticos e anotações dos cursos realizados na Alura, focando em áreas como desenvolvimento backend, inteligência artificial e outras tecnologias. O objetivo deste repositório é consolidar os conhecimentos adquiridos ao longo dos cursos, servindo como referência para futuros projetos e como ferramenta de revisão.
+Este repositório contém o material de estudo, projetos práticos e anotações dos cursos realizados na Alura, focando em áreas como desenvolvimento backend, frontend e banco de dados. O objetivo deste repositório é consolidar os conhecimentos adquiridos ao longo dos cursos, servindo como referência para futuros projetos e como ferramenta de revisão.
 
 ## Estrutura:
 
