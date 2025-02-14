@@ -28,3 +28,9 @@ const addArtist = (req, res) => {
     artists.push(newArtist);
     res.status(201).json(newArtist);
   };
+
+  module.exports = {
+    getAllArtists,
+    getArtistById,
+    addArtist
+  };
