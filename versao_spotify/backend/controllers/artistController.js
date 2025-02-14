@@ -15,3 +15,16 @@ const getArtistById = (req, res) => {
       res.status(404).json({ message: "Artista não encontrado" });
     }
   };
+
+// Função para adicionar um  novo artista
+const addArtist = (req, res) => {
+    const { name, genre, details } = req.body;
+    const newArtist = {
+      id: artists.length + 1,
+      name,
+      genre,
+      details
+    };
+    artists.push(newArtist);
+    res.status(201).json(newArtist);
+  };
